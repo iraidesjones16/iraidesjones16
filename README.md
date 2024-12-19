@@ -1,6 +1,4 @@
-## Bienvwnido al curriculo de Napsong_best 👋
-
-##Sobre mi.
+## Bienvenido al curriculo de Napsong_best 👋
 
 ⚡Soy un estudiante universitario, cursando en la carrera de Ingenieria Informati, interezado en las labores de codificacion y gestion de proyectos. Tengo 21 años. Llevo mas de 4 años familiarizado con el mundo del desarrollo.
 
